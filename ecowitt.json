@@ -25,7 +25,7 @@
     "8A": "<i class=\"ewi-rain\"></i> ${rainRate} in/h<br><i class=\"ewi-windspeed\" style=\"color:#${windColor}\"></i> ${windSpeed} mph<br><i class=\"ewi-wind${windCompass}\"></i> ${windDirection} &deg; ${windCompass}",
     "10": "<i class=\"ewi-rain\"></i> ${rainRate} in/hr<br>Hourly: ${rainHourly} in<br>Daily: ${rainDaily} in<br>Monthly: ${rainMonthly} in<br>Total: ${rainTotal} in",
     "11": "<i class=\"ewi-wind${windCompass}\"></i> ${windDirection} &deg; ${windCompass}<br><i class=\"ewi-windspeed\"></i> ${windSpeed} mph<br>Gust: ${windGust} mph<br>Daily Max: ${windGustMaxDaily} mph",
-    "13": "<i class=\"ewi-windspeed\"></i>${windSpeed}mph<br><i class=\"ewi-wind${windCompass}\"></i>${windDirection}&deg; ${windCompass}<br><i class=\"ewi-chill\"></i>${windChill}&deg;F<br><i class=\"ewi-light\"></i>${illuminance} lux<br>UV ${ultravioletDanger}"
+    "13": "<i class=\"ewi-windspeed\"></i> ${windSpeed} mph<br><i class=\"ewi-wind${windCompass}\"></i> ${windDirection} &deg; ${windCompass}<br><i class=\"ewi-chill\"></i> ${windChill} &deg;F<br><i class=\"ewi-light\"></i> ${illuminance} lux<br>UV ${ultravioletDanger}"
   },
   "templatesMetric": {
     "0":  "<i class=\"ewi-temperature\"></i> ${temperature} &deg;C<br><i class=\"ewi-humidity\"></i> ${humidity} %",
